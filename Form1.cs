@@ -15,7 +15,8 @@ namespace SQLite
             sqliteDatabase = new SQLiteDB("Eleves.db", recreate: false);
             DataTable table = sqliteDatabase.getEleve();
             dataGridView1.DataSource = table;
-            //dataGridView1.
+            DataGridViewColumn column = dataGridView1.Columns[3];
+            column.Width = 202;
         }
 
         private void button1_Click(object sender, EventArgs e)
