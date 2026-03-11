@@ -43,3 +43,5 @@ C:\Users\Admin\Documents\SQLite\obj\Debug\net10.0-windows\refint\SQLite.dll
 C:\Users\Admin\Documents\SQLite\obj\Debug\net10.0-windows\SQLite.pdb
 C:\Users\Admin\Documents\SQLite\obj\Debug\net10.0-windows\SQLite.genruntimeconfig.cache
 C:\Users\Admin\Documents\SQLite\obj\Debug\net10.0-windows\ref\SQLite.dll
+C:\Users\Admin\Documents\SQLite\obj\Debug\net10.0-windows\SQLite.sourcelink.json
+C:\Users\Admin\Documents\SQLite\obj\Debug\net10.0-windows\SQLite.AddData.resources
